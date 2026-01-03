@@ -14,7 +14,7 @@ This project explores the relationship between diabetes prevalence and key demog
 ## 🧪 Methods
 - Data Source: CDC Behavioral Risk Factor Surveillance System
 - Statistical Tests:
-  - Mann–Whitney U test
+  - Mann-Whitney U test
   - Chi-square tests of independence
 - Effect Sizes:
   - Rank-biserial correlation
@@ -35,3 +35,11 @@ This project explores the relationship between diabetes prevalence and key demog
 - Matplotlib & seaborn
 - Jupyter Notebook
 - Git & GitHub
+
+## ▶️ How to Run
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Launch Jupyter Notebook
+4. Open diabetes_eda_statistical_analysis.ipynb and run cells sequentially
