@@ -42,4 +42,4 @@ This project explores the relationship between diabetes prevalence and key demog
    ```bash
    pip install -r requirements.txt
 3. Launch Jupyter Notebook
-4. Open diabetes_eda_statistical_analysis.ipynb and run cells sequentially
+4. Open eda_statistical_analysis.ipynb and run cells sequentially
